@@ -1,0 +1,7 @@
+{  
+    "parent": "item/generated",
+	"credit": "Perpltxed",
+	"textures": {
+		"layer0": "item/runes/felling"
+	}
+}

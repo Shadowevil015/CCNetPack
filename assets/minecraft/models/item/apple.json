@@ -1,0 +1,188 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/apple"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "item/blackberry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "item/blueberry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "item/cherry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "item/coconut"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "item/corn"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "item/tomato"
+    }, 
+    {
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "item/cranberry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "item/grape"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10
+      },
+      "model": "item/lemon"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "item/lettuce"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 12
+      },
+      "model": "item/lime"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 13
+      },
+      "model": "item/orange"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14
+      },
+      "model": "item/peach"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 15
+      },
+      "model": "item/pear"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 16
+      },
+      "model": "item/pineapple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 17
+      },
+      "model": "item/plum"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 18
+      },
+      "model": "item/pomegranate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 19
+      },
+      "model": "item/raspberry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20
+      },
+      "model": "item/strawberry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 21
+      },
+      "model": "item/sweet_potato"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 22
+      },
+      "model": "item/tea_leaf"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23
+      },
+      "model": "item/caramel_apple"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 24
+      },
+      "model": "item/rice"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 25
+      },
+      "model": "item/dragonfruit"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 26
+      },
+      "model": "item/garlic"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 27
+      },
+      "model": "item/onion"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 28
+      },
+      "model": "item/curry_leaf"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 29
+      },
+      "model": "item/mustard_seed"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 2200326
+      },
+      "model": "item/christmas/caramel_apple"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 2200327
+      },
+      "model": "item/christmas/chocolate_apple"
+    }
+  ]
+}

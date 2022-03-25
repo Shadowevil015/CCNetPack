@@ -1,0 +1,7 @@
+{  
+    "parent": "item/generated",
+	"credit": "Call to Battle 2 Mod",
+	"textures": {
+		"layer0": "item/ammo/chauchat_ammo"
+	}
+}

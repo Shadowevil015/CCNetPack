@@ -1,0 +1,7 @@
+{  
+    "parent": "item/generated",
+	"credit": "Flan's Mod - Modern Warfare Content Pack (Modified by Zaify)",
+	"textures": {
+		"layer0": "item/naval_shell"
+	}
+}

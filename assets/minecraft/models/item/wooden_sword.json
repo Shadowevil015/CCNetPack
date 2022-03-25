@@ -1,0 +1,14 @@
+{
+"parent": "item/handheld",
+"textures": {
+"layer0": "item/wooden_sword"
+},
+
+"overrides": [
+{"predicate": {"custom_model_data":717}, "model": "item/grenades/fraggrenade"},
+{"predicate": {"custom_model_data":718}, "model": "item/grenades/gasgrenade"},
+{"predicate": {"custom_model_data":719}, "model": "item/grenades/congrenade"},
+{"predicate": {"custom_model_data":720}, "model": "item/grenades/molotov"}
+
+]
+}

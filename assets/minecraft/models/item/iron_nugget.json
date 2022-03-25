@@ -1,0 +1,104 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/iron_nugget"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "item/ammo/flamethrower_ammo"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "item/ammo/leeenfield_ammo"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "item/ammo/mosinnagant_ammo"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "item/ammo/springfield_ammo"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "item/ammo/machine_gun_ammo"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "item/ammo/mp18_ammo"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "item/ammo/berthier_ammo"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "item/ammo/trenchgun_ammo"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "item/ammo/luger_ammo"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10
+      },
+      "model": "item/ammo/webley_ammo"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "item/ammo/colt_ammo"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 12
+      },
+      "model": "item/ammo/chauchat_ammo"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 13
+      },
+      "model": "item/ammo/carcano_ammo"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14
+      },
+      "model": "item/ammo/bar_ammo"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 15
+      },
+      "model": "item/ammo/madsen_ammo"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 16
+      },
+      "model": "item/ammo/tgewehr_ammo"
+    }
+  ]
+}

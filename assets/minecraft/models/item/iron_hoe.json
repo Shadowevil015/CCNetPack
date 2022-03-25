@@ -1,0 +1,21 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "minecraft:item/iron_hoe"
+    },
+    "overrides": [
+	
+	{ "predicate": {"custom_model_data": 705},
+	"model": "item/lewislmg"},
+	{ "predicate": {"custom_model_data": 708},
+	"model": "item/maxim0815"},
+	{ "predicate": {"custom_model_data": 706},
+	"model": "item/chauchatlmg"},
+	{ "predicate": {"custom_model_data": 707},
+	"model": "item/madsenlmg"},
+	{ "predicate": {"custom_model_data": 714},
+	"model": "item/guns/barlmg"},
+	{ "predicate": {"custom_model_data": 712},
+	"model": "item/guns/artilleryluger"}
+	]
+}

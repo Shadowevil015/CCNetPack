@@ -1,0 +1,7 @@
+{  
+    "parent": "item/generated",
+	"credit": "Flans Mod: World War 2 Content Pack",
+	"textures": {
+		"layer0": "item/ammo/luger_ammo"
+	}
+}

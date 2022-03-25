@@ -1,0 +1,7 @@
+{  
+    "parent": "item/generated",
+	"credit": "Flan's Mod - Modern Warfare Content Pack.",
+	"textures": {
+		"layer0": "item/cannon_ammo/tank_shell"
+	}
+}

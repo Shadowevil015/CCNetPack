@@ -1,0 +1,631 @@
+{
+    "bd.dragging1": {
+		"sounds": [
+			"doors/dragging1"
+		]
+	},   
+	"bd.dragging2": {
+		"sounds": [
+			"doors/dragging2"
+		]
+	},
+    "bd.closing-vault-door": {
+		"sounds": [
+			"doors/closing-vault-door"
+		]
+	},
+	"bd.drawbridge-rattling": {
+		"sounds": [
+			"doors/drawbridge-rattling"
+		]
+	},
+	"bd.thud": {
+		"sounds": [
+			"doors/thud"
+		]
+	},
+    "cannonfire": {
+        "replace": false,
+        "sounds": [
+            "cannons/cannonfire"
+        ]
+    },
+    "mortarfire": {
+        "replace": false,
+        "sounds": [
+            "cannons/mortarfire"
+        ]
+    },
+    "howitzerfire": {
+        "replace": false,
+        "sounds": [
+            "cannons/howitzerfire"
+        ]
+    },
+    "rocketfire1": {
+        "replace": false,
+        "sounds": [
+            "cannons/rocketfire1"
+        ]
+    },
+    "rocketfire2": {
+        "replace": false,
+        "sounds": [
+            "cannons/rocketfire2"
+        ]
+    },
+    "57mmfire": {
+        "replace": false,
+        "sounds": [
+            "cannons/57mmfire"
+        ]
+    },
+    "incendiaryhit": {
+        "replace": false,
+        "sounds": [
+            "effects/incendiaryhit"
+        ]
+    },
+    "springfield_shoot": {
+		"subtitle": "Springfield fires",
+        "sounds": [
+            "guns/springfield/shoot_1",
+            "guns/springfield/shoot_2"
+        ]
+    },
+    "springfield_pedersen_shoot": {
+		"subtitle": "Springfield fires",
+        "sounds": [
+            "guns/springfield/pedersen_shoot_1",
+            "guns/springfield/pedersen_shoot_2"
+        ]
+    },
+    "springfield_reload": {
+		"subtitle": "Springfield reloads",
+        "sounds": [
+            "guns/reload/springfield_reload"
+        ]
+    },
+    "browning_shoot": {
+        "replace": false,
+        "sounds": [
+            "guns/browning_shoot"
+        ]
+    },
+    "browning_reload": {
+        "replace": false,
+        "sounds": [
+            "guns/reload/browning_reload"
+        ]
+    },
+    "vickers_shoot": {
+        "replace": false,
+        "sounds": [
+            "guns/vickers_shoot"
+        ]
+    },
+    "flintlockpistol_shoot": {
+        "replace": false,
+        "sounds": [
+            "guns/flintlockpistol_fire"
+        ]
+    },
+    "musket_shoot": {
+        "replace": false,
+        "sounds": [
+            "guns/musket_shoot"
+        ]
+    },
+
+    "flintlock_open": {
+        "replace": false,
+        "sounds": [
+            "guns/reload/flintlock_open"
+        ]
+    },
+    "gewehr98_shoot": {
+        "replace": false,
+		"subtitle": "Gewehr 98 fires",
+        "sounds": [
+            "guns/gewehr98_shoot"
+        ]
+    },
+    "gewehr98_reload": {
+        "replace": false,
+        "sounds": [
+            "guns/reload/gewehr98_reload"
+        ]
+    },
+    "leeenfield_shoot": {
+        "replace": false,
+        "sounds": [
+            "guns/leeenfield_shoot"
+        ]
+    },
+    "leeenfield_reload": {
+        "replace": false,
+        "sounds": [
+            "guns/reload/leeenfield_reload"
+        ]
+    },
+    "mp18_shoot": {
+        "replace": false,
+        "sounds": [
+            "guns/mp18_shoot"
+        ]
+    },
+    "madsen_shoot": {
+        "replace": false,
+        "sounds": [
+            "guns/madsen_shoot"
+        ]
+    },
+    "berthier_shoot": {
+        "replace": false,
+        "sounds": [
+            "guns/berthier_shoot"
+        ]
+    },
+    "carcano_shoot": {
+        "replace": false,
+        "sounds": [
+            "guns/carcano_shoot"
+        ]
+    },
+    "nock_shoot": {
+        "replace": false,
+        "sounds": [
+            "guns/nock_shoot"
+        ]
+    },
+    "chauchat_shoot": {
+        "replace": false,
+        "sounds": [
+            "guns/chauchat_shoot"
+        ]
+    },
+    "lewis_shoot": {
+        "replace": false,
+        "sounds": [
+            "guns/lewis_shoot"
+        ]
+    },
+    "mosinnagant_shoot": {
+		"subtitle": "Mosin-Nagant fires",
+        "sounds": [
+            "guns/mosinnagant/mosinnagant_shoot_1",
+            "guns/mosinnagant/mosinnagant_shoot_2"
+        ]
+    },
+    "bullet_hit": {
+        "replace": false,
+        "sounds": [
+            "bullet/hit_1",
+			"bullet/hit_2",
+            "bullet/hit_3",
+            "bullet/hit_4",
+            "bullet/hit_5",
+            "bullet/hit_6",
+            "bullet/hit_7",
+            "bullet/hit_8",
+            "bullet/hit_9"
+        ]
+    },
+    "reloadbolt": {
+        "replace": false,
+        "sounds": [
+            "guns/reload/reloadbolt"
+        ]
+    },
+    "loadbolt": {
+        "replace": false,
+        "sounds": [
+            "guns/reload/loadbolt"
+        ]
+    },
+    "flamethrower_loop": {
+        "replace": false,
+        "sounds": [
+            "guns/flamethrower_loop"
+        ]
+    },
+    "flamethrower_cooldown": {
+        "replace": false,
+        "sounds": [
+            "guns/reload/flamethrower_cooldown"
+        ]
+    },
+    "flamethrower_warmup": {
+        "replace": false,
+        "sounds": [
+            "guns/reload/flamethrower_warmup"
+        ]
+    },
+    "cannon_fire_2": {
+        "replace": false,
+        "sounds": [
+            "cannons/cannon_fire_2"
+        ]
+    },
+	"naval_cannon_fire": {
+        "replace": false,
+        "sounds": [
+            "cannons/naval_cannon_fire"
+        ]
+    },
+    "cannon_reload": {
+        "replace": false,
+        "sounds": [
+            "cannons/cannon_reload"
+        ]
+    },
+    "minigun_shoot": {
+        "replace": false,
+        "sounds": [
+            "cannons/autocannon/autocannon_1",
+			"cannons/autocannon/autocannon_2",
+			"cannons/autocannon/autocannon_3"
+        ]
+    },
+    "mannlicher_shoot": {
+        "replace": false,
+        "sounds": [
+            "guns/mannlicher_shoot"
+        ]
+    },
+    "rifle_shoot_suppressed": {
+        "replace": false,
+        "sounds": [
+            "guns/rifle_shoot_suppressed"
+        ]
+    },
+    "tank_shoot": {
+		"subtitle": "Tank fires",
+        "sounds": [
+            "cannons/tank/regular_1",
+			"cannons/tank/regular_2"
+        ]
+    },
+    "tank_reload": {
+		"subtitle": "Tank reloads",
+        "sounds": [
+            "cannons/tank/regular_reload"
+        ]
+    },
+    "heavy_tank_shoot": {
+		"subtitle": "Heavy tank fires",
+        "sounds": [
+            "cannons/tank/heavy_1",
+            "cannons/tank/heavy_2"
+        ]
+    },
+    "heavy_tank_reload": {
+		"subtitle": "Heavy tank reloads",
+        "sounds": [
+            "cannons/tank/heavy_reload"
+        ]
+    },
+    "tank_mg_shoot": {
+		"subtitle": "Tank MG fires",
+        "sounds": [
+            "cannons/tank/machine_gun_1",
+            "cannons/tank/machine_gun_2"
+        ]
+    },
+    "tank_mg_reload": {
+		"subtitle": "Tank MG reloads",
+        "sounds": [
+            "cannons/tank/machine_gun_reload"
+        ]
+    },
+    "load": {
+        "replace": false,
+        "sounds": [
+            "guns/reload/load"
+        ]
+    },
+    "magazine_in": {
+        "replace": false,
+        "sounds": [
+            "guns/reload/magazine_in"
+        ]
+    },
+    "magazine_out": {
+        "replace": false,
+        "sounds": [
+            "guns/reload/magazine_out"
+        ]
+    },
+    "explosion": {
+        "replace": false,
+        "sounds": [
+            "effects/explosion_1",
+            "effects/explosion_2"
+        ]
+    },
+	"trenchgun_shoot": {
+		"sounds": [
+			"guns/trenchgun_shoot"
+		]
+	},
+	"bar_shoot": {
+		"sounds": [
+			"guns/bar_shoot"
+		]
+	},
+	"colt_shoot": {
+		"sounds": [
+			"guns/colt_shoot"
+		]
+	},
+	"luger_shoot": {
+		"sounds": [
+			"guns/luger_shoot"
+		]
+	},
+	"tgewehr_shoot": {
+		"sounds": [
+			"guns/tgewehr_shoot"
+		]
+	},
+	"webley_shoot": {
+		"sounds": [
+			"guns/webley_shoot"
+		]
+	},
+	"arisaka_shoot": {
+		"sounds": [
+			"guns/arisaka_shoot"
+		]
+	},
+	"moschetto_shoot": {
+		"subtitle": "Moschetto fires",
+		"sounds": [
+			"guns/carcano/moschetto_shoot"
+		]
+	},
+	"dry_fire": {
+		"sounds": [
+			"guns/dry_fire"
+		]
+	},
+	"stab": {
+		"sounds": [
+			"effects/stab"
+		]
+	},
+	"backstab": {
+		"sounds": [
+			"effects/backstab"
+		]
+	},
+	"headshot_self": {
+		"sounds": [
+			"effects/headshot_self"
+		]
+	},
+	"hit_self": {
+		"sounds": [
+			"effects/hit_self"
+		]
+	},
+	"gas_escape": {
+		"sounds": [
+			"effects/gas_escape"
+		]
+	},
+	"grenade_detonate": {
+		"sounds": [
+			"grenades/grenade_detonate"
+		]
+	},
+	"molotov_detonate": {
+		"sounds": [
+			"grenades/molotov_detonate"
+		]
+	},
+	"pull_pin": {
+		"sounds": [
+			"grenades/pull_pin"
+		]
+	},
+	"throw": {
+		"sounds": [
+			"grenades/throw"
+		]
+	},
+	"luger_reload": {
+		"sounds": [
+			"guns/reload/luger_reload"
+		]
+	},
+	"colt_reload": {
+		"sounds": [
+			"guns/reload/colt_reload"
+		]
+	},
+	"shotgun_load": {
+		"sounds": [
+			"guns/reload/shotgun_load"
+		]
+	},
+	"shotgun_pump": {
+		"sounds": [
+			"guns/reload/shotgun_pump"
+		]
+	},
+	"tgewehr_load": {
+		"sounds": [
+			"guns/reload/tgewehr_load"
+		]
+	},
+	"tgewehr_round_out": {
+		"sounds": [
+			"guns/reload/tgewehr_round_out"
+		]
+	},
+	"ear_ring": {
+		"sounds": [
+			"grenades/ear_ring"
+		]
+	},
+	"smoke_emit": {
+		"subtitle": "Smoke deploys",
+		"sounds": [
+			"effects/smoke_emit"
+		]
+	},
+	"flashbang_detonate": {
+		"sounds": [
+			"grenades/flashbang_detonate"
+		]
+	},
+	"webley_reload": {
+		"sounds": [
+			"guns/reload/webley_reload"
+		]
+	},
+	"grenade_launcher_shoot": {
+		"subtitle": "Grenade launcher fires",
+		"sounds": [
+			"guns/grenade_launcher/shoot_1",
+			"guns/grenade_launcher/shoot_2",
+			"guns/grenade_launcher/shoot_3"
+		]
+	},
+	"grenade_launcher_explode": {
+		"subtitle": "Grenade explodes",
+		"sounds": [
+			"guns/grenade_launcher/explode_1"
+		]
+	},
+	"cannon_rotate": {
+		"subtitle": "Cannon aims",
+		"sounds": [
+			"cannons/rotate/rotate_1"
+		]
+	},
+	"ifv_fire": {
+		"subtitle": "IFV gun fires",
+		"sounds": [
+			"cannons/ifv/ifv_1"
+		]
+	},
+	"ifv_reload": {
+		"subtitle": "IFV gun reloads",
+		"sounds": [
+			"cannons/ifv/ifv_reload"
+		]
+	},
+	"aa_fire": {
+		"subtitle": "AA cannon fires",
+		"sounds": [
+			"cannons/aa/aa_fire_1"
+		]
+	},
+	"aa_explode": {
+		"subtitle": "AA shell explodes",
+		"sounds": [
+			"cannons/aa/aa_explode_1"
+		]
+	},
+	"4_inch": {
+		"subtitle": "4-inch cannon fires",
+		"sounds": [
+			"cannons/4_inch/4_inch_1",
+			"cannons/4_inch/4_inch_2",
+			"cannons/4_inch/4_inch_3"
+		]
+	},
+	"9_inch": {
+		"subtitle": "9-inch cannon fires",
+		"sounds": [
+			"cannons/9_inch/9_inch_1",
+			"cannons/9_inch/9_inch_2",
+			"cannons/9_inch/9_inch_3",
+			"cannons/9_inch/9_inch_4"
+		]
+	},
+	"12_inch": {
+		"subtitle": "12-inch cannon fires",
+		"sounds": [
+			"cannons/12_inch/12_inch_1"
+		]
+	},
+	"14_inch": {
+		"subtitle": "14-inch cannon fires",
+		"sounds": [
+			"cannons/14_inch/14_inch_1",
+			"cannons/14_inch/14_inch_2",
+			"cannons/14_inch/14_inch_3"
+		]
+	},
+	"18_inch": {
+		"subtitle": "18-inch cannon fires",
+		"sounds": [
+			"cannons/18_inch/18_inch_1"
+		]
+	},
+	"bomb_drop": {
+		"subtitle": "Bomb drops",
+		"sounds": [
+			"crafts/bomb/bomb_drop"
+		]
+	},
+	"turret_rotate": {
+		"subtitle": "Turret rotates",
+		"sounds": [
+			"crafts/turret/turret_rotate"
+		]
+	},
+	"truck_start": {
+		"subtitle": "Truck starts",
+		"sounds": [
+			"crafts/truck/truck_start"
+		]
+	},
+	"truck_move": {
+		"subtitle": "Truck moves",
+		"sounds": [
+			"crafts/truck/truck_move"
+		]
+	},
+	"tank_start": {
+		"subtitle": "Tank starts",
+		"sounds": [
+			"crafts/tank/tank_start"
+		]
+	},
+	"tank_move": {
+		"subtitle": "Tank moves",
+		"sounds": [
+			"crafts/tank/tank_move"
+		]
+	},
+	"plane_move": {
+		"subtitle": "Fighter flies",
+		"sounds": [
+			"crafts/fighter/fighter_move",
+			"crafts/fighter/fighter_move_2",
+			"crafts/fighter/fighter_move_3"
+		]
+	},
+	"bomber_move": {
+		"subtitle": "Bomber flies",
+		"sounds": [
+			"crafts/bomber/bomber_move"
+		]
+	},
+	"ifv_start": {
+		"subtitle": "IFV starts",
+		"sounds": [
+			"crafts/ifv/ifv_start"
+		]
+	},
+	"ifv_move": {
+		"subtitle": "IFV moves",
+		"sounds": [
+			"crafts/ifv/ifv_move"
+		]
+	}
+}

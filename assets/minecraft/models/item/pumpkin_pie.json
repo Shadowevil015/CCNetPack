@@ -1,0 +1,134 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/pumpkin_pie"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "item/pear_pie"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "item/blueberry_pie"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "item/carrot_cake"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "item/cherry_cheesecake"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "item/cherry_pie"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "item/chicken_pot_pie"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "item/chocolate_cake"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "item/lemon_drizzle_cake"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "item/peach_cobbler"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10
+      },
+      "model": "item/pineapple_cake"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "item/raspberry_pie"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 12
+      },
+      "model": "item/pizza"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 13
+      },
+      "model": "item/strawberry_pie"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14
+      },
+      "model": "item/blackberry_pie"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 15
+      },
+      "model": "item/sweet_potato_quinoa_cakes"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 16
+      },
+      "model": "item/cheesecake"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 17
+      },
+      "model": "item/pumpkin_cheesecake"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 18
+      },
+      "model": "item/apple_pie"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2200321
+      },
+      "model": "item/christmas/fruit_cake"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2200322
+      },
+      "model": "item/christmas/apple_pie"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2200324
+      },
+      "model": "item/christmas/christmas_cake"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/nether_star"
+    },
+    
+    "overrides": [
+		{ "predicate": { "custom_model_data": 1}, "model": "item/runes/corruption"},
+		{ "predicate": { "custom_model_data": 2}, "model": "item/runes/binding"},
+        { "predicate": { "custom_model_data": 3}, "model": "item/runes/beheading"},
+        { "predicate": { "custom_model_data": 5}, "model": "item/runes/icy"},
+        { "predicate": { "custom_model_data": 6}, "model": "item/runes/molten"},
+        { "predicate": { "custom_model_data": 7}, "model": "item/runes/felling"},
+        { "predicate": { "custom_model_data": 8}, "model": "item/runes/potency"},
+        { "predicate": { "custom_model_data": 9}, "model": "item/runes/explosive"},
+        { "predicate": { "custom_model_data": 10}, "model": "item/runes/vein"},
+        { "predicate": { "custom_model_data": 11}, "model": "item/runes/swift"},
+        { "predicate": { "custom_model_data": 12}, "model": "item/runes/heatproof"},
+        { "predicate": { "custom_model_data": 14}, "model": "item/runes/glowing"},
+        { "predicate": { "custom_model_data": 15}, "model": "item/runes/solid"},
+        { "predicate": { "custom_model_data": 16}, "model": "item/runes/upgrade"}
+    ]
+}

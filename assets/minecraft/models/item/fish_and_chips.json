@@ -1,0 +1,7 @@
+{  
+    "parent": "item/generated",
+	"credit": "DemnEye",
+	"textures": {
+		"layer0": "item/fish_and_chips"
+	}
+}

@@ -1,0 +1,12 @@
+{  
+    "parent": "item/generated",
+	"credit": "raulh22",
+	"textures": {
+		"layer0": "item/gui/back"
+	},
+	"display": {
+		"gui": {
+			"scale":  [ 1.1, 1.1, 1.1 ]
+        }
+	}
+}

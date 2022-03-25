@@ -1,0 +1,7 @@
+{  
+    "parent": "item/generated",
+	"credit": "TheLastOreo",
+	"textures": {
+		"layer0": "item/cannon_ammo/ap_shell"
+	}
+}

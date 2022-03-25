@@ -1,0 +1,7 @@
+{  
+    "parent": "item/generated",
+	"credit": "See pack description.",
+	"textures": {
+		"layer0": "item/blueberry_pie"
+	}
+}
